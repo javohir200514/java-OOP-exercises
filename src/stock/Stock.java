@@ -14,8 +14,8 @@ class Stock {
     }
 
     void getChangePerent(){
+        System.out.printf("name: %s %nsymbol: %s %n",name,symbol);
         System.out.println("Change price persantage :"+(double)(Math.abs(previousClosingPrice-currentPrice)/currentPrice*100));
-        System.out.printf("name: %s %nsymbol: %s ",name,symbol);
     }
 
 
