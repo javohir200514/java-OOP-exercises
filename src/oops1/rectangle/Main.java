@@ -1,4 +1,4 @@
-package rectangle;
+package oops1.rectangle;
 
 public class Main {
     public static void main(String[] args) {

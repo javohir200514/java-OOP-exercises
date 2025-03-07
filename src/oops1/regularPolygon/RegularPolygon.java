@@ -1,4 +1,4 @@
-package regularPolygon;
+package oops1.regularPolygon;
 
 class RegularPolygon {
     int n;

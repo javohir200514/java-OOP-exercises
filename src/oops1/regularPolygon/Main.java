@@ -1,4 +1,4 @@
-package regularPolygon;
+package oops1.regularPolygon;
 
 public class Main {
     public static void main(String[] args) {

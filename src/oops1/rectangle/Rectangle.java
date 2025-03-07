@@ -1,4 +1,4 @@
-package rectangle;
+package oops1.rectangle;
 
 class Rectangle {
     double width;
@@ -16,6 +16,7 @@ class Rectangle {
     }
 
     void getPerimetr(){
+
         System.out.printf("Perimetr of rectangle:%f",2*(width+height));
     }
 }

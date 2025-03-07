@@ -1,4 +1,4 @@
-package quadraticEquation;
+package oops1.quadraticEquation;
 
 public class Main {
     public static void main(String[] args) {

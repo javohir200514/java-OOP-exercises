@@ -1,4 +1,4 @@
-package linearEquation;
+package oops1.linearEquation;
 
 public class Main {
     public static void main(String[] args) {

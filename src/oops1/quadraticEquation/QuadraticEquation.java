@@ -1,4 +1,4 @@
-package quadraticEquation;
+package oops1.quadraticEquation;
 
 class QuadraticEquation {
     int a;

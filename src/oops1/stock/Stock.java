@@ -1,4 +1,4 @@
-package stock;
+package oops1.stock;
 
 class Stock {
     String name;

@@ -1,4 +1,4 @@
-package account;
+package oops1.account;
 
 class Account {
     int id;
@@ -25,10 +25,12 @@ class Account {
     }
 
     void withdraw(double moneyPop){
+
         balance=balance-moneyPop;
     }
 
     void deposit(double moneyPush){
+
         balance=balance+moneyPush;
     }
     void print(){
