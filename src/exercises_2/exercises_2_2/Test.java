@@ -1,0 +1,14 @@
+package exercises_2.exercises_2_2;
+
+public class Test {
+    public static void main(String[] args) {
+        Author[] authors = new Author[3];
+        authors[0] = new Author("Tan Ah Teck", "AhTeck@somewhere.com", 'm');
+        authors[1] = new Author("Paul Tan", "Paul@nowhere.com", 'm');
+        authors[2] = new Author("Komilbayev Javohir", "komilbayevj.com", 'm');
+
+// Declare and allocate a Book instance
+        Book javaDummy = new Book("Java for Dummy", authors, 19.99, 99);
+        System.out.println(javaDummy);
+    }
+}
