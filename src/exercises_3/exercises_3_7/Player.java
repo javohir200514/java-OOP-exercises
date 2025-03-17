@@ -23,6 +23,5 @@ public class Player {
     }
 
     public void kick(Ball ball){
-
     }
 }
